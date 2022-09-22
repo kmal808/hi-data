@@ -8,11 +8,11 @@ jobs:
       - id: 'update_worksheet'
         uses: jroehl/gsheet.action@v1.1.0 # you can specify '@release' to always have the latest changes
         with:
-          spreadsheetId: secrets.SHEET_ID
+          spreadsheetId:  ${{ secrets.SHEET_ID }}
           commands: | # list of commands, specified as a valid JSON string
             [
-              { "command": "addWorksheet", "args": { "worksheetTitle": "Maui" }},
-              { "command": "getData", "args": { "range": "'<worksheetTitle>'!A2:B3" } }
+              { "command": "getSpreadsheet" },
+              { "command": "getWorksheet", "args": { "workSheetTitle": "Maui" } }
             ]
         env:
           GSHEET_CLIENT_EMAIL: ${{ secrets.GSHEET_CLIENT_EMAIL }}

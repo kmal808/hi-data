@@ -1,5 +1,5 @@
 name: gsheet.action
-on: repository_dispatch
+on: workflow_dispatch
 
 jobs:
   fetch:

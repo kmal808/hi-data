@@ -11,8 +11,10 @@ jobs:
           spreadsheetId: ${{ secrets.SPREADSHEET_ID }}
           commands: | # list of commands, specified as a valid JSON string
             [
-              { "command": "getSpreadsheet", "args": { "spreadsheetId": ${{ secrets.SPREADSHEET_ID }} },
-              { "command": "getWorksheet", "args": { "worksheetTitle": "Maui" }} }
+              # { "command": "getSpreadsheet", "args": { "spreadsheetId": ${{ secrets.SPREADSHEET_ID }} },
+              { "command": "getWorksheet", "args": { "worksheetTitle": "<Maui>" }}
+              { "command": "getWorksheet", "args": { "worksheetTitle": "<Honolulu (Oahu)>" }}
+              { "command": "getWorksheet", "args": { "worksheetTitle": "<Kauai>" }}
             ]
         env:
           GSHEET_CLIENT_EMAIL: ${{ secrets.GSHEET_CLIENT_EMAIL }}

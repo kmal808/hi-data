@@ -14,10 +14,10 @@ jobs:
               { "command": "getWorksheet", "args": { "worksheetTitle": "Maui" }},
               { "command": "getWorksheet", "args": { "worksheetTitle": "Honolulu (Oahu)" }},
               { "command": "getWorksheet", "args": { "worksheetTitle": "Hawaii (Big Island)" }},
-              { "command": "getWorksheet", "args": { "worksheetTitle": "Kauai" }}
-              { "command": "getData", "args": { "range": "Maui" }}
-              { "command": "getData", "args": { "range": "Honolulu (Oahu)" }}
-              { "command": "getData", "args": { "range": "Hawaii (Big Island)" }}
+              { "command": "getWorksheet", "args": { "worksheetTitle": "Kauai" }},
+              { "command": "getData", "args": { "range": "Maui" } },
+              { "command": "getData", "args": { "range": "Honolulu (Oahu)" } },
+              { "command": "getData", "args": { "range": "Hawaii (Big Island)" } },
               { "command": "getData", "args": { "range": "Kauai" }}
             ]
         env:

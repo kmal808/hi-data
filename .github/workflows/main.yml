@@ -12,7 +12,7 @@ jobs:
           commands: | # list of commands, specified as a valid JSON string
             [
               { "command": "getSpreadsheet", "args": { "spreadsheetId": ${{ secrets.SPREADSHEET_ID }} },
-              { "command": "getWorksheet", "args": { "worksheetTitle": "Maui" } }
+              { "command": "getWorksheet", "args": { "worksheetTitle": "Maui" }} }
             ]
         env:
           GSHEET_CLIENT_EMAIL: ${{ secrets.GSHEET_CLIENT_EMAIL }}

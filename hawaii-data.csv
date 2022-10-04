@@ -86,7 +86,10 @@ HI,Honolulu,Honolulu,F-1,Preservation - Military and federal,Yes,No,No,Nonreside
 HI,Honolulu,Honolulu,P-2,Preservation - General,Yes,No,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Prohibited,,,,,N/A,N/A,,,N/A,,,,,,,
 HI,Honolulu,Honolulu,AG-1,Agricultural - Restricted,Yes,No,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Prohibited,,,,,N/A,N/A,,,N/A,,,,,,,
 HI,Honolulu,Honolulu,AG-2,Agricultural - General,Yes,No,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Prohibited,,,,,N/A,N/A,,,N/A,,,,,,,
-HI,Honolulu,Honolulu,C,Country,Yes,No,No,Mixed with Residential,No,No,Allowed/Conditional,Allowed/Conditional,Prohibited,Prohibited,0.11,,,,,,"2 per unit up to 3,249 square feet
+HI,Honolulu,Honolulu,C,Country,Yes,No,No,Mixed with Residential,No,No,Allowed/Conditional,Allowed/Conditional,Prohibited,Prohibited,0.11,,,,"5% 
+10% 
+10% 
+25%",None,"2 per unit up to 3,249 square feet
 3 per unit from 3,250 to 3,999 square feet
 4 per unit from 4,000 to 4,749 square feet
 1 additional for each 750 square feet over 4,000 square feet",N/A,"Baseline: 15 ft    
@@ -232,8 +235,12 @@ HI,Honolulu,Honolulu,44562,Industral - Limited,Yes,No,No,Nonresidential,No,No,Pr
 HI,Honolulu,Honolulu,44563,Industrial - Intensive,Yes,No,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
 HI,Honolulu,Honolulu,44564,Industrial - Waterfront,Yes,No,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
 HI,Honolulu,Honolulu,IMX-1,Industrial-Commercial Mixed Use,Yes,No,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
-HI,Honolulu,Honolulu,Apart,Apartment Precinct (Waikiki Special District),Yes,Yes,,Mixed with Residential,Yes,No,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,0.17,,,,0.5,None,1 per dwelling or lodging unit,N/A,,,,No,No,0.17,,,,,0.5,None,1 per dwelling or lodging unit,,,,,,No,No,0.17,,,,,,,,,,,,,,,,No,No,0.17,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
-HI,Honolulu,Honolulu,ApartMix,Apartment Mixed Use Subprecinct (Waikiki Special District),Yes,Yes,,Mixed with Residential,No,No,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,0.17,,,,0.5,None,1 per dwelling or lodging unit,N/A,,,,No,No,0.17,,,,,0.5,None,1 per dwelling or lodging unit,,,,,,No,No,0.17,,,,,,,,,,,,,,,,No,No,0.17,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
+HI,Honolulu,Honolulu,Apart,Apartment Precinct (Waikiki Special District),Yes,Yes,,Mixed with Residential,Yes,No,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,0.17,,,,0.5,None,1 per dwelling or lodging unit,N/A,"Baseline: 40 ft
+
+10 more feet per additional foot of height setback",,,No,No,0.17,,,,,0.5,None,1 per dwelling or lodging unit,,,,,,No,No,0.17,,,,,,,,,,,,,,,,No,No,0.17,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
+HI,Honolulu,Honolulu,ApartMix,Apartment Mixed Use Subprecinct (Waikiki Special District),Yes,Yes,,Mixed with Residential,No,No,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,0.17,,,,0.5,None,1 per dwelling or lodging unit,N/A,"Baseline: 40 ft
+
+10 more feet per additional foot of height setback",,,No,No,0.17,,,,,0.5,None,1 per dwelling or lodging unit,,,,,,No,No,0.17,,,,,,,,,,,,,,,,No,No,0.17,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
 HI,Honolulu,Honolulu,Aloha,State Jurisdiction: Aloha Tower Project (Admin. by Aloha Tower Development Corp.),Yes,Yes,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,,,,,,N/A,N/A,,,N/A,,,,,,,
 HI,Honolulu,Honolulu,I-1,I-1 Limited Industrial,Yes,No,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
 HI,Honolulu,Honolulu,I-2,I-2 Intensive Industrial,Yes,No,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,

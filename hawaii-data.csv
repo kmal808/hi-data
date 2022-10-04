@@ -146,7 +146,7 @@ HI,Honolulu,Honolulu,A-2,Apartment - Medium-density,Yes,No,No,Primarily Resident
 40% if > 20,000 sqft",None,"2 per unit up to 3,249 square feet
 3 per unit from 3,250 to 3,999 square feet
 4 per unit from 4,000 to 4,749 square feet
-1 additional for each 750 square feet over 4,000 square feet",N/A,"Baseline Max: 40 ft
+1 additional for each 750 square feet over 4,000 square feet",N/A,"Baseline: 40 ft
 
 10 more feet per additional foot of height setback","Less than 10,000 FAR = (.00003 x lot area) + 0.3 10,000 - 40,000 FAR = (.00001 x lot area) + 0.5  Over 40,000  FAR = 0.10",,No,No,0.23,,,,,"60% if < 7,500 sqft
 50% if 7,500 - 20,000 sqft
@@ -159,7 +159,7 @@ HI,Honolulu,Honolulu,A-3,Apartment - High-density,Yes,No,No,Primarily Residentia
 40% if > 20,000 sqft",None,"2 per unit up to 3,249 square feet
 3 per unit from 3,250 to 3,999 square feet
 4 per unit from 4,000 to 4,749 square feet
-1 additional for each 750 square feet over 4,000 square feet",N/A,"Baseline Max: 40 ft
+1 additional for each 750 square feet over 4,000 square feet",N/A,"Baseline: 40 ft
 
 10 more feet per additional foot of height setback","Less than 10,000 FAR = (.00003 x lot area) + 0.3 10,000 - 40,000 FAR = (.00001 x lot area) + 0.5  Over 40,000  FAR = 0.11",,No,No,0.34,,,,,"60% if < 7,500 sqft
 50% if 7,500 - 20,000 sqft
@@ -196,7 +196,7 @@ HI,Honolulu,Honolulu,AMX-3,Apartment Mixed Use - High-density,Yes,No,No,Mixed wi
 40% if > 20,000 sqft",None,"2 per unit up to 3,249 square feet
 3 per unit from 3,250 to 3,999 square feet
 4 per unit from 4,000 to 4,749 square feet
-1 additional for each 750 square feet over 4,000 square feet",N/A,"Baseline Max: 40 ft
+1 additional for each 750 square feet over 4,000 square feet",N/A,"Baseline: 40 ft
 
 10 more feet per additional foot of height setback","Less than 10,000 FAR = (.00003 x lot area) + 0.3 10,000 - 40,000 FAR = (.00001 x lot area) + 0.5  Over 40,000  FAR = 0.14",,No,No,0.34,,,,,"60% if < 7,500 sqft
 50% if 7,500 - 20,000 sqft
@@ -207,7 +207,9 @@ HI,Honolulu,Honolulu,AMX-3,Apartment Mixed Use - High-density,Yes,No,No,Mixed wi
 HI,Honolulu,Honolulu,Resort,Resort,Yes,No,No,Mixed with Residential,No,No,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,0.34,,,,0.5,None,"2 per unit up to 3,249 square feet
 3 per unit from 3,250 to 3,999 square feet
 4 per unit from 4,000 to 4,749 square feet
-1 additional for each 750 square feet over 4,000 square feet",N/A,Per zoning map,TBD - Discrepancy,,No,No,0.34,,,,,0.5,None,"2 per unit up to 3,249 square feet
+1 additional for each 750 square feet over 4,000 square feet",N/A,"Baseline: 30 ft
+
+10 more feet per additional foot of height setback",TBD - Discrepancy,,No,No,0.34,,,,,0.5,None,"2 per unit up to 3,249 square feet
 3 per unit from 3,250 to 3,999 square feet
 4 per unit from 4,000 to 4,749 square feet
 1 additional for each 750 square feet over 4,000 square feet",,,,TBD - Discrepancy,,No,No,0.34,,,,,,,,,,,N/a,Per zoning map,"Lot area (sq. ft.)
@@ -219,7 +221,7 @@ HI,Honolulu,Honolulu,B-2,Business - Community,Yes,No,No,Nonresidential,No,No,Pro
 HI,Honolulu,Honolulu,BMX-3,Business Mixed Use - Community,Yes,No,No,Mixed with Residential,No,No,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,0.11,,,,None,None,"2 per unit up to 3,249 square feet
 3 per unit from 3,250 to 3,999 square feet
 4 per unit from 4,000 to 4,749 square feet
-1 additional for each 750 square feet over 4,000 square feet",,,2.5,,No,No,0.11,,,,,None,None,"2 per unit up to 3,249 square feet
+1 additional for each 750 square feet over 4,000 square feet",N/A,,2.5,,No,No,0.11,,,,,None,None,"2 per unit up to 3,249 square feet
 3 per unit from 3,250 to 3,999 square feet
 4 per unit from 4,000 to 4,749 square feet
 1 additional for each 750 square feet over 4,000 square feet",,,,2.5,,No,No,0.11,,,,,,,,,,,N/a,Per zoning map,2.5,,,No,No,0.11,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Prohibited,,,,,N/A,N/A,,,N/A,,,,,,,
@@ -228,8 +230,8 @@ HI,Honolulu,Honolulu,44562,Industral - Limited,Yes,No,No,Nonresidential,No,No,Pr
 HI,Honolulu,Honolulu,44563,Industrial - Intensive,Yes,No,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
 HI,Honolulu,Honolulu,44564,Industrial - Waterfront,Yes,No,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
 HI,Honolulu,Honolulu,IMX-1,Industrial-Commercial Mixed Use,Yes,No,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
-HI,Honolulu,Honolulu,Apart,Apartment Precinct (Waikiki Special District),Yes,Yes,,Mixed with Residential,Yes,No,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,0.17,,,,0.5,None,1 per dwelling or lodging unit,,,,,No,No,0.17,,,,,0.5,None,1 per dwelling or lodging unit,,,,,,No,No,0.17,,,,,,,,,,,,,,,,No,No,0.17,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
-HI,Honolulu,Honolulu,ApartMix,Apartment Mixed Use Subprecinct (Waikiki Special District),Yes,Yes,,Mixed with Residential,No,No,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,0.17,,,,0.5,None,1 per dwelling or lodging unit,,,,,No,No,0.17,,,,,0.5,None,1 per dwelling or lodging unit,,,,,,No,No,0.17,,,,,,,,,,,,,,,,No,No,0.17,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
+HI,Honolulu,Honolulu,Apart,Apartment Precinct (Waikiki Special District),Yes,Yes,,Mixed with Residential,Yes,No,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,0.17,,,,0.5,None,1 per dwelling or lodging unit,N/A,,,,No,No,0.17,,,,,0.5,None,1 per dwelling or lodging unit,,,,,,No,No,0.17,,,,,,,,,,,,,,,,No,No,0.17,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
+HI,Honolulu,Honolulu,ApartMix,Apartment Mixed Use Subprecinct (Waikiki Special District),Yes,Yes,,Mixed with Residential,No,No,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,0.17,,,,0.5,None,1 per dwelling or lodging unit,N/A,,,,No,No,0.17,,,,,0.5,None,1 per dwelling or lodging unit,,,,,,No,No,0.17,,,,,,,,,,,,,,,,No,No,0.17,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
 HI,Honolulu,Honolulu,Aloha,State Jurisdiction: Aloha Tower Project (Admin. by Aloha Tower Development Corp.),Yes,Yes,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,,,,,,N/A,N/A,,,N/A,,,,,,,
 HI,Honolulu,Honolulu,I-1,I-1 Limited Industrial,Yes,No,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,
 HI,Honolulu,Honolulu,I-2,I-2 Intensive Industrial,Yes,No,No,Nonresidential,No,No,Prohibited,Prohibited,Prohibited,Prohibited,,,,,,,,,,,,No,No,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Allowed/Conditional,,,,,N/A,N/A,,,N/A,,,,,,,

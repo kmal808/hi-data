@@ -221,7 +221,9 @@ HI,Honolulu,Honolulu,B-2,Business - Community,Yes,No,No,Nonresidential,No,No,Pro
 HI,Honolulu,Honolulu,BMX-3,Business Mixed Use - Community,Yes,No,No,Mixed with Residential,No,No,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,Allowed/Conditional,0.11,,,,None,None,"2 per unit up to 3,249 square feet
 3 per unit from 3,250 to 3,999 square feet
 4 per unit from 4,000 to 4,749 square feet
-1 additional for each 750 square feet over 4,000 square feet",N/A,,2.5,,No,No,0.11,,,,,None,None,"2 per unit up to 3,249 square feet
+1 additional for each 750 square feet over 4,000 square feet",N/A,"Baseline: 40 ft
+
+10 more feet per additional foot of height setback",2.5,,No,No,0.11,,,,,None,None,"2 per unit up to 3,249 square feet
 3 per unit from 3,250 to 3,999 square feet
 4 per unit from 4,000 to 4,749 square feet
 1 additional for each 750 square feet over 4,000 square feet",,,,2.5,,No,No,0.11,,,,,,,,,,,N/a,Per zoning map,2.5,,,No,No,0.11,,,,,,,,,,,,,,,,,Not Mentioned,,,,,,,,,,,,Prohibited,,,,,N/A,N/A,,,N/A,,,,,,,

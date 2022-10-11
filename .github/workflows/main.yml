@@ -12,8 +12,7 @@ jobs:
           commands: | # list of commands, specified as a valid JSON string
             [
               { "command": "getData", "args": { "range": "Maui", "minCol": 1 } },
-              { "command": "getData", "args": { "range": "Honolulu (Oahu)", "minCol": 1 } },
-              { "command": "getData", "args": { "range": "Hawaii (Big Island)", "minCol": 1 } }
+              { "command": "getData", "args": { "range": "Honolulu (Oahu)", "minCol": 1 } }
             ]
         env:
           GSHEET_CLIENT_EMAIL: ${{ secrets.GSHEET_CLIENT_EMAIL }}

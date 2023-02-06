@@ -1,2 +1,6 @@
 # hi-data
-Merged data for each district from the Hawaii Zoning Atlas Spreadsheet. Workflow done on local server. 
+# Automation workflow to merge data for each district into one csv file. 
+
+Data source the [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) G-Sheet. 
+
+Workflow hosted and ran locally. 

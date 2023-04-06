@@ -151,6 +151,7 @@ Hawaii,FA-2a,Family Agricultural District - minimum 2 acres
 Hawaii,FA-3a,Family Agricultural District - minimum 3 acres
 Hawaii,FA-5a,Family Agricultural District - minimum 5 acres
 Hawaii,FR,Forest Reserve
+Hawaii,IA,Intensive Agricultural
 Hawaii,MCX-10,"Industrial-Commercial Mixed Use - 10,000 square feet"
 Hawaii,MCX-1a,Industrial-Commercial Mixed Use - 1 acres
 Hawaii,MCX-20,"Industrial-Commercial Mixed Use - 20,000 square feet"
@@ -174,9 +175,9 @@ Hawaii,RA-1a,Residential & Agricultural - Minimum 1 acre
 Hawaii,RA-2a,Residential & Agricultural - Minimum 2 acres
 Hawaii,RA-3a,Residential & Agricultural - Minimum 3 acres
 Hawaii,RA-5a,Residential & Agricultural - Minimum 5 acres
-Hawaii,RCX-10,Residential-Commercial Mixed Use Districts 
-Hawaii,RCX-2,Residential-Commercial Mixed Use Districts
-Hawaii,RCX-20,Residential-Commercial Mixed Use Districts
+Hawaii,RCX-10,"Residential-Commercial Mixed Use Districts - 10,000 square feet"
+Hawaii,RCX-2,"Residential-Commercial Mixed Use Districts - 2,000 square feeet"
+Hawaii,RCX-20,"Residential-Commercial Mixed Use Districts - 20,000 square feet"
 Hawaii,RD-3.75,Double-Family Residential Districts 
 Hawaii,RM-.75,Multiple-Family Residential - 750 square feet
 Hawaii,RM-1,"Multiple-Family Residential - 1,000 square feet"
@@ -217,6 +218,7 @@ Hawaii,V-2.0,"Resort-Hotel - 2,000 square feet"
 Hawaii,V-2.25,"Resort-Hotel - 2,250 square feet"
 Hawaii,V-2a,Resort-Hotel - 2 acres
 Hawaii,V-4,"Resort-Hotel - 4,000 square feet"
+Hawaii,V-6,"Resort-Hotel - 6,000 square feet"
 Hawaii,V-7,"Resort-Hotel - 2,250 square feet"
 Kauaʻi,R-1,Residential (R)
 Kauaʻi,R-2,Residential (R)

@@ -1,79 +1,77 @@
 ﻿County,Abbreviated District Name,Full District Name
-Maui,BMF-MRA,Business Multi Family - MRA
+Maui,OS-1,OS-1 Open Space (Passive)
+Maui,OS-2,OS-2 Open Space (Active)
+Maui,OS,Open Space
+Maui,OZ,OZ Open Zone
+Maui,R-1,R-1 Residential
+Maui,R-2,R-2 Residential
+Maui,R-3,R-3 Residential
+Maui,R-0,R-0 Residential
+Maui,D-1,D-1 Duplex
+Maui,D-2,D-2 Duplex
+Maui,A-1,A-1 Apartment
+Maui,A-2,A-2 Apartment
+Maui,H-1,H-1 Hotel
+Maui,H-2,H-2 Hotel
+Maui,H-M,H-M Hotel
+Maui,H,H Hotel
+Maui,SBR,SBR - Service Business Residential
+Maui,B-CT,B-CT Business - Country Town
 Maui,B-1,B-1 Business - Neighborhood
 Maui,B-2,B-2 Business-Community
 Maui,B-3,B-3 Business - Central District
-Maui,B-CT,B-CT Business - Country Town
 Maui,BR,BR Business - Resort
-Maui,CID,CID Napili Bay Civic Improvement District
-Maui,PD,PD Project District
-Maui,RES-MRA,Residential - MRA
-Maui,A-1,A-1 Apartment
-Maui,A-2,A-2 Apartment
-Maui,County rural,Rural District-Country Rural
+Maui,M-1,M-1 Light Industrial
+Maui,M-2,M-2 Heavy Industrial
+Maui,M-3,M-3 Heavy Industrial
+Maui,PK,PK Park
+Maui,GC,GC Golf Course
+Maui,PK(GC),PK(GC) Park-Golf Course
+Maui,AP,AP Airport
+Maui,AG,AG Agriculture
 Maui,RU-0.5,RU-0.5 Rural - 1/2 Acre
 Maui,RU-1.0,RU-1.0 Rural - 1 Acre
 Maui,RU-2,RU-2.0 Rural - 2 Acre
 Maui,RU-5,RU-5.0 Rural - 5 Acre
 Maui,RU-10,RU-10.0 Rural - 10 Acre
+Maui,County rural,Rural District-Country Rural
+Maui,R,R Rural
+Maui,P-1,P-1 Public/Quasi-Public
+Maui,P-2,P-2 Public/Quasi-Public
+,P,Public Use
+Maui,KRTP,KRTP Kihei Research and Technology Park District
 Maui,MRTP,MRTP Maui Research and Technology Park District
+Maui,CID,CID Napili Bay Civic Improvement District
+Maui,UR,UR Urban Reserve
+Maui,INT,INT Interim
 Maui,HD-1,HD-1 Historic District 1
 Maui,HD-2,HD-2 Historic District 2
 Maui,HD-3,HD-3 Historic District 3
-Maui,R-0,R-0 Residential
+Maui,PD,PD Project District
+Maui,BMF-MRA,Business Multi Family - MRA
 Maui,CMU-MRA,Commercial Mixed Use - MRA
 Maui,MF-MRA,Multi Family - MRA
-Maui,SBR,SBR - Service Business Residential
-Maui,R-1,R-1 Residential
-Maui,UR,UR Urban Reserve
-Maui,D-1,D-1 Duplex
-Maui,R-2,R-2 Residential
-Maui,D-2,D-2 Duplex
-Maui,H-1,H-1 Hotel
-Maui,R-3,R-3 Residential
-Maui,H-M,H-M Hotel
-Maui,H-2,H-2 Hotel
-Maui,AG,AG Agriculture
-Maui,AP,AP Airport
-Maui,GC,GC Golf Course
-Maui,INT,INT Interim
-Maui,KRTP,KRTP Kihei Research and Technology Park District
-Maui,M-1,M-1 Light Industrial
-Maui,M-2,M-2 Heavy Industrial
-Maui,M-3,M-3 Heavy Industrial
-Maui,OS-1,OS-1 Open Space (Passive)
-Maui,OS-2,OS-2 Open Space (Active)
-Maui,P-1,P-1 Public/Quasi-Public
-Maui,P-2,P-2 Public/Quasi-Public
 Maui,P/QP-MRA,Public/Quasi-Public - MRA
-Maui,PK,PK Park
-Maui,CHD,Cluster Housing Developments
-Maui,Kihei-Makena PD2,Kihei-Makena Project District 2 (kihei gateway park project)
-Maui,Kihei-Makena PD5,Kihei-Makena Project District 5
-Maui,Kihei-Makena PD8,Kihei-Makena Project District 8 (palauea)
-Maui,Kihei-Makena PD9,kihei-Makena Project District 9 (wailea 670)
-Maui,Lahaina PD1,Lahaina Project District 1 (Kapalua)
+Maui,RES-MRA,Residential - MRA
 Maui,Lanai PD1,Lanai Project District 1 (Manele)
 Maui,Lanai PD2,Lanai Project District 2 (Koele)
+Maui,Lahaina PD1,Lahaina Project District 1 (Kapalua)
+Maui,Kihei-Makena PD5,Kihei-Makena Project District 5
 Maui,Makawao-Pukalani-Kula PD1,Makawao-Pukalani-Kula Project District 1 (Kula)
-Maui,OSIS,Open Space Incentive System
-Maui,R-O Overlay, R-O Zero Lot Line Overlay District
-Maui,URD,Urban Reserve District
-Maui,Waiale PD south,Waiale Project District south
-Maui,WCT,Waikapu Country Town District
 Maui,Wailuku-Kahului PD1,Wailuku-Kahului Project District 1 (maui lani)
 Maui,Wailuku-Kahului PD2,Wailuku-Kahului Project District 2 (piihana)
 Maui,Wailuku-Kahului PD3,Wailuku-Kahului Project District 3 (wailuku)
 Maui,Wailuku-Kahului PD4,Wailuku-Kahului Project District 4 (waihe'e)
+Maui,R-O Overlay, R-O Zero Lot Line Overlay District
 Maui,Wailuku-Kahului PD5,Wailuku-Kahului Project District 5 (maui tropical plantation)
+Maui,Kihei-Makena PD2,Kihei-Makena Project District 2 (kihei gateway park project)
+Maui,Kihei-Makena PD9,kihei-Makena Project District 9 (wailea 670)
+Maui,Kihei-Makena PD8,Kihei-Makena Project District 8 (palauea)
 Maui,West Maui PD2,West Maui Project District 2 (kapalua mauka)
-Maui,West Maui PD3,West maui Project District 3 (kaanapali-north beach mauka)
 Maui,West Maui PD5,West Maui Project District 5 (pulelehua)
-Maui,H,H Hotel
-Maui,OS,Open Space
-Maui,OZ,OZ Open Zone
-Maui,PK(GC),PK(GC) Park-Golf Course
-Maui,R,R Rural
+Maui,West Maui PD3,West maui Project District 3 (kaanapali-north beach mauka)
+Maui,Waiale PD south,Waiale Project District south
+Maui,WCT,Waikapu Country Town District
 Honolulu,P-1,P-1 Preservation - Restricted
 Honolulu,F-1,F-1 Preservation - Military and federal
 Honolulu,P-2,P-2 Preservation - General
